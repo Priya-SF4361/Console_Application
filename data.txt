@@ -1,1 +1,1 @@
-This is console Application
+city:none
